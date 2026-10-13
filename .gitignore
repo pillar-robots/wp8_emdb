@@ -304,3 +304,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
+### Ignore subrepos of the experiments
+src/edutainment_emdb/
+src/my_controll/
